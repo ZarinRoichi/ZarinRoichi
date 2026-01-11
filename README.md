@@ -1,7 +1,6 @@
-"# ZarinRoichi" 
 ## Hi there 👋  
 
-I am **Zarin Tasnim Roichi**, a Computer Science graduate with strong interests in **Machine Learning, Natural Language Processing (NLP), Large Language Models (LLMs), and backend development**. I enjoy working on applied AI problems where models are trained, evaluated, and integrated into real-world systems.
+I am **Zarin Tasnim Roichi**, a Computer Science and Engineering graduate with strong interests in **Machine Learning, Natural Language Processing (NLP), Large Language Models (LLMs), and backend development**. I enjoy working on applied AI problems where models are trained, evaluated, and integrated into real-world systems.
 
 My academic and project work focuses on **Bengali NLP**, including misinformation detection, fake review/news classification, sentiment analysis, and multimodal learning. Alongside ML research, I have hands-on experience building **SQL-based backend systems and web applications**, as well as **IoT-based automation projects**.
 
