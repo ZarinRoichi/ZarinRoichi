@@ -22,6 +22,54 @@ I am particularly interested in the following areas and actively work on them th
 - **IoT-based Intelligent Systems**
 
 ---
+## 🛠️ Technical Skills  
+
+### 🔹 Programming Languages  
+- Python, C, C++, Java  
+- JavaScript, PHP, HTML, CSS  
+- Assembly Language, LaTeX  
+
+### 🔹 Machine Learning & AI  
+- Transformers, LLMs  
+- Bengali NLP pipelines  
+- Dataset preparation & balancing  
+- Model training, testing & evaluation  
+- Error analysis & confidence-based inference  
+- Multimodal learning (text + image)  
+
+### 🔹 Frameworks & Libraries  
+- PyTorch, TensorFlow  
+- Hugging Face Transformers  
+- Scikit-learn, Pandas, NumPy  
+
+### 🔹 Databases & Backend  
+- MySQL, SQL Server  
+- SQL-based data handling  
+- Backend API integration  
+- Localhost deployment  
+
+### 🔹 Tools & Software  
+- Git & GitHub  
+- VS Code, Visual Studio, XAMPP  
+- MATLAB, WEKA  
+- Arduino IDE, Android Studio  
+- Cisco Packet Tracer  
+
+---
+
+
+
+---
+
+## 🌐 Connect with Me  
+
+- 📧 Email: zarinroichi@gmail.com  
+- 💻 GitHub: https://github.com/ZarinRoichi  
+- 🔗 LinkedIn: https://linkedin.com/in/zarin-tasnim-roichi  
+- 🌍 Portfolio: https://zarinroichi.github.io  
+- 📄 CV: https://zarinroichi.github.io/resume/Zarin_Tasnim_Roichi_CV.pdf  
+
+---
 
 ## 🧠 Selected Projects  
 
@@ -68,66 +116,5 @@ SQL-based full-stack web application with role-based access control, attendance 
 
 ---
 
-## 🛠️ Technical Skills  
-
-### 🔹 Programming Languages  
-- Python, C, C++, Java  
-- JavaScript, PHP, HTML, CSS  
-- Assembly Language, LaTeX  
-
-### 🔹 Machine Learning & AI  
-- Transformers, LLMs  
-- Bengali NLP pipelines  
-- Dataset preparation & balancing  
-- Model training, testing & evaluation  
-- Error analysis & confidence-based inference  
-- Multimodal learning (text + image)  
-
-### 🔹 Frameworks & Libraries  
-- PyTorch, TensorFlow  
-- Hugging Face Transformers  
-- Scikit-learn, Pandas, NumPy  
-
-### 🔹 Databases & Backend  
-- MySQL, SQL Server  
-- SQL-based data handling  
-- Backend API integration  
-- Localhost deployment  
-
-### 🔹 Tools & Software  
-- Git & GitHub  
-- VS Code, Visual Studio, XAMPP  
-- MATLAB, WEKA  
-- Arduino IDE, Android Studio  
-- Cisco Packet Tracer  
-
----
-
-## 🎓 Education  
-
-- **B.Sc. in Computer Science & Engineering**  
-  Ahsanullah University of Science and Technology (AUST)  
-  **Completed:** December 2025  
-  **CGPA:** 3.405 / 4.00  
-
-- **Higher Secondary Certificate (HSC)**  
-  Holy Cross College, Dhaka — **2019**  
-  GPA: 5.00 / 5.00  
-
-- **Secondary School Certificate (SSC)**  
-  A.V.J.M Govt. Girls High School — **2017**  
-  GPA: 5.00 / 5.00  
-
----
-
-## 🌐 Connect with Me  
-
-- 📧 Email: zarinroichi@gmail.com  
-- 💻 GitHub: https://github.com/ZarinRoichi  
-- 🔗 LinkedIn: https://linkedin.com/in/zarin-tasnim-roichi  
-- 🌍 Portfolio: https://zarinroichi.github.io  
-- 📄 CV: https://zarinroichi.github.io/resume/Zarin_Tasnim_Roichi_CV.pdf  
-
----
 
 ⭐ *This profile highlights my academic, project-based, and applied ML experience as a fresh graduate and will be updated as my work grows.*  
