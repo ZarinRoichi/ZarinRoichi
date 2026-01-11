@@ -6,7 +6,6 @@ My academic and project work focuses on **Bengali NLP**, including misinformatio
 
 I am currently seeking **entry-level / internship opportunities** where I can contribute to applied ML/NLP projects and grow as an AI engineer or research-oriented developer.
 
----
 
 ## 🔍 Primary Interests & Focus Areas  
 
@@ -21,7 +20,7 @@ I am particularly interested in the following areas and actively work on them th
 - **ML Deployment with Backend APIs**
 - **IoT-based Intelligent Systems**
 
----
+
 ## 🛠️ Technical Skills  
 
 ### 🔹 Programming Languages  
@@ -55,7 +54,7 @@ I am particularly interested in the following areas and actively work on them th
 - Arduino IDE, Android Studio  
 - Cisco Packet Tracer  
 
----
+
 
 ## 🌐 Connect with Me  
 
@@ -65,7 +64,7 @@ I am particularly interested in the following areas and actively work on them th
 - 🌍 Portfolio: https://zarinroichi.github.io  
 - 📄 CV: https://zarinroichi.github.io/resume/Zarin_Tasnim_Roichi_CV.pdf  
 
----
+
 
 ## 🧠 Selected Projects  
 
@@ -75,42 +74,31 @@ Best performance achieved around **~98% F1-score**.
 
 🔗 Repository: https://github.com/ZarinRoichi/BengaliFakeReview  
 
----
+
 
 ### 🔹 Bengali Fake News Detection  
 Detection of fake news in Bengali using transformer models; focused on preprocessing, evaluation, and performance comparison.
 
 🔗 Repository: https://github.com/ZarinRoichi/BengaliFakeNewsDetection  
 
----
+
 
 ### 🔹 Sentiment Analysis of Bengali Movie Reviews  
 Binary sentiment classification using transformer models, including fine-tuning and evaluation workflows.
 
 🔗 Repository: https://github.com/ZarinRoichi/SentimentAnalysisofMovieReviews  
 
----
+
 
 ### 🔹 Multimodal Bengali Fake News Detection  
 Text + image based fake news detection using multimodal fusion techniques; comparison with unimodal baselines.
 
 🔗 Repository: https://github.com/ZarinRoichi/BengaliFakeNewsDetection  
 
----
 
-### 🔹 Offline Voice-Controlled Home Automation (IoT)  
-Arduino-based smart home automation system with Bluetooth control, **MIT App Inventor Android app**, RFID security, and command-mapping logic.
 
-🔗 Repository: https://github.com/anika136/offline-smart-home-automation  
 
----
 
-### 🔹 Employee Time & Attendance Tracker  
-SQL-based full-stack web application with role-based access control, attendance tracking, and reporting.
-
-🔗 Repository: https://github.com/afrainakhter/Employee-Time-and-Attendance-Tracker-  
-
----
 
 
 ⭐ *This profile highlights my academic, project-based, and applied ML experience as a fresh graduate and will be updated as my work grows.*  
