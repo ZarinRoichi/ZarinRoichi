@@ -57,10 +57,6 @@ I am particularly interested in the following areas and actively work on them th
 
 ---
 
-
-
----
-
 ## 🌐 Connect with Me  
 
 - 📧 Email: zarinroichi@gmail.com  
