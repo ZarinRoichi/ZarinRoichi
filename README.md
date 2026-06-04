@@ -60,7 +60,7 @@ I am particularly interested in the following areas and actively work on them th
 
 - 📧 Email: zarinroichi@gmail.com  
 - 💻 GitHub: https://github.com/ZarinRoichi  
-- 🔗 LinkedIn: https://linkedin.com/in/zarin-tasnim-roichi  
+- 🔗 LinkedIn: https://www.linkedin.com/in/zarin-tasnim-roichi-a480ba23a/ 
 - 🌍 Portfolio: https://zarinroichi.github.io  
 - 📄 CV: https://zarinroichi.github.io/resume/Zarin_Tasnim_Roichi_CV.pdf  
 
